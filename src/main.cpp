@@ -6,7 +6,7 @@
 #include <OneButton.h>
 #include "OneButton.h"
 
-const char* ssid = ".UniFi";
+const char* ssid = "UniFi";
 const char* password = "lesenaopeka";
 
 // const int errorPin = A0; // sense pin if no flame > 5s
